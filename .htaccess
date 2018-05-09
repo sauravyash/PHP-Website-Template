@@ -1,0 +1,5 @@
+#Don't edit or delete this cause its for your 404 page settings
+Options +FollowSymLinks
+
+#redirect 404 errors to this page
+ErrorDocument 404 "/content/error_pages/404.php"
